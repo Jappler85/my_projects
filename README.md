@@ -1,5 +1,12 @@
-### Here you can find my Projects as a Data Analytics Trainee ###
-My Journeyman's Piece is :gb: POInterest - London Airbnb Explorer :gb:
+### Here you can find my Projects ###
+
+---
+
+Below you will find my featured Journeyman's Piece: 
+
+
+#### :gb: POInterest - London Airbnb Explorer :gb: ####
+
 A tool that uses Overpass API & Selenium to find the optimal environment of Airbnbs for specific traveler types out of Airbnb, Openstreetmaps & Google Maps. It is visualized with a Tableau Dashboard which:
 <p>(1) filters your individual needs and interests</p>
 <p>(2) checks for fair prices and good ratings via linear regression</p>
