@@ -9,8 +9,8 @@ A tool that uses Overpass API & Selenium to find the optimal environment of Airb
 
 [Dashboard](https://public.tableau.com/views/POInterest-LondonAirbnbExplorer/FINALDASHBOARD?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link) 
 
-[Code](https://github.com/S3lina3/My_Projects/blob/main/Journeymans_Piece_Code_London_Airbnb_Explorer.ipynb)
+[Code](https://github.com/Jappler85/my_projects/blob/main/journeymans_piece_airbnb_explorer/journeymans_piece_london_airbnb_explorer.ipynb)
 
-[Presentation](https://github.com/S3lina3/My_Projects/blob/main/Journeymans_Piece_London_Airbnb_Explorer_Presentation.pdf)
+[Presentation](https://github.com/Jappler85/my_projects/blob/main/journeymans_piece_airbnb_explorer/journeymans_piece_london_airbnb_explorer_presentation.pdf)
 
-![Dashboard Screenshot](https://github.com/S3lina3/My_Projects/blob/main/Journeymans_Piece_Dashboard_London_Airbnb_Explorer.png)
+![Dashboard Screenshot](https://github.com/Jappler85/my_projects/blob/main/journeymans_piece_airbnb_explorer/dashboard_london_airbnb_explorer.png)
