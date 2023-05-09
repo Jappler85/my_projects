@@ -1,8 +1,8 @@
-### Here you can find my Projects ###
+### In the Repository above you will find some of the Projects i've done so far ###
 
 ---
 
-Below you will find my featured Journeyman's Piece: 
+Below you will find my Journeyman's Piece: 
 
 
 #### :gb: POInterest - London Airbnb Explorer :gb: ####
