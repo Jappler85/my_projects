@@ -5,7 +5,7 @@
 Below you will find my Journeyman's Piece: 
 
 
-#### :gb: POInterest - London Airbnb Explorer :gb: ####
+#### POInterest - London Airbnb Explorer ####
 
 A tool that uses Overpass API & Selenium to find the optimal environment of Airbnbs for specific traveler types out of Airbnb, Openstreetmaps & Google Maps. It is visualized with a Tableau Dashboard which:
 * filters your individual needs and interests
