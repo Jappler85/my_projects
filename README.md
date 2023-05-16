@@ -8,11 +8,10 @@ Below you will find my Journeyman's Piece:
 #### :gb: POInterest - London Airbnb Explorer :gb: ####
 
 A tool that uses Overpass API & Selenium to find the optimal environment of Airbnbs for specific traveler types out of Airbnb, Openstreetmaps & Google Maps. It is visualized with a Tableau Dashboard which:
-<p>(1) filters your individual needs and interests</p>
-<p>(2) checks for fair prices and good ratings via linear regression</p>
-<p>(3) helps you understanding your neighbourhood better</p>
-<p>(4) books you an Airbnb directly in the Dashboard</p>
-<p> </p>
+* filters your individual needs and interests
+* checks for fair prices and good ratings with help of a regression model
+* helps you understanding your neighbourhood 
+* books you an Airbnb directly in the Dashboard
 
 [Dashboard](https://public.tableau.com/views/POInterest-LondonAirbnbExplorer/FINALDASHBOARD?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link) 
 
