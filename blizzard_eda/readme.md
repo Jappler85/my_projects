@@ -1,6 +1,6 @@
 # SQL-API Project: Analyzing the Impact of Weather on Flight Performance
 
-This project combines SQL, Python, and API skills to analyze the impact of weather on flight performance. The objective is to gain insights into how different weather conditions affect flights in different cities. The project utilizes historical flight data and weather data to identify a weather event that led to flight cancellations. By analyzing and correlating the data, the project aims to provide valuable knowledge about the relationship between weather and flight performance.
+This group project combines SQL, Python, and API skills to analyze the impact of weather on flight performance. The objective is to gain insights into how different weather conditions affect flights in different cities. The project utilizes historical flight data and weather data to identify a weather event that led to flight cancellations. By analyzing and correlating the data, the project aims to provide valuable knowledge about the relationship between weather and flight performance.
 
 The project involves the following steps:
 
