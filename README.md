@@ -1,4 +1,6 @@
-### In the Repository above you will find some of the Projects i've done so far ###
+**In the Repository above you will find some of the Projects i've done so far.**
+
+Feel free tow browse around the projects and do let me know in case you have any questions or ideas for improvements
 
 ---
 
